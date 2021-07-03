@@ -355,10 +355,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
-.Dart{
+.Tableau{
    width: 50%;
-   -moz-animation: Dart 2s ease;
-   -webkit-animation: Dart 2s ease;
+   -moz-animation: Tableau 2s ease;
+   -webkit-animation: Tableau 2s ease;
 }
 .c {
    width: 90%;
@@ -423,9 +423,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes Dart {
+@-webkit-keyframes Tableau {
    0%   { width: 0px;  }
-   100% { width: 50%;  }
+   100% { width: 75%;  }
  }
  @-webkit-keyframes c {
    0%   { width: 0px;  }
