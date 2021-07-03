@@ -390,9 +390,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes Dart {
+@-moz-keyframes Tableau {
    0%   { width: 0px;  }
-   100% { width: 50%;  }
+   100% { width: 75%;  }
  }
  @-moz-keyframes c {
    0%   { width: 0px;  }
