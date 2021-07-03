@@ -356,7 +356,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: sql 2s ease;
 }
 .Tableau{
-   width: 50%;
+   width: 75%;
    -moz-animation: Tableau 2s ease;
    -webkit-animation: Tableau 2s ease;
 }
